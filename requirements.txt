@@ -5,6 +5,7 @@ packaging>=23.1
 prompt_toolkit==3.0.39
 pygments==2.16.1
 requests==2.31.0
-safe-eth-py==6.0.0b5
+git+https://github.com/protofire/safe-eth-py.git@6.0.05b-scroll-eip1559#egg=safe-eth-py
+#safe-eth-py==6.0.0b5
 tabulate==0.9.0
 web3==6.11.1
